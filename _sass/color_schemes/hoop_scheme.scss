@@ -1,0 +1,66 @@
+//@import "./color_schemes/light";
+
+
+//$link-color: #000000;
+
+
+//
+
+
+body .side-bar {
+
+    //width: 500px;
+    //border: 1px solid black;
+//    min-width: 120px;
+
+   
+}
+
+.main-content {
+  
+}
+
+
+.site-header {
+    //border: 1px solid black;
+}
+
+$nav-width: 25.5rem !default;
+
+
+body .side-bar {
+    //border: 1px solid black;
+}
+
+body .site-header {
+    width: 300px;
+}
+
+body .site-nav {
+    width: 300px;
+}
+
+
+
+
+.site-footer {
+    text-align: center;
+}
+
+
+.nav-list-link {
+    color: $grey-dk-200;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+}
+
+.site-button
+{
+    color: $grey-dk-300;
+    letter-spacing: 0.05em;
+    font-weight: bold;
+    
+}
+
+
+

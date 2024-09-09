@@ -1,0 +1,84 @@
+title: Докуметация отдела РТС
+description: Все знания, что мы получаем, стараемся интегрировать сюда в виде инструкций
+theme: just-the-docs
+
+url: https://melodicteam.ru
+
+
+# ============== КОНФИГУРИРОВАНИЕ =============================
+
+# === логотип сайта ===
+logo: "/assets/images/3l_robotics_logo_black.png"
+
+# === функционал поиска ===
+search_enabled: true
+
+  
+# === ссылки навигации сверху справа ===
+aux_links:
+  Главная: /index.html
+  3Logic Group: https://3logic.ru
+  Контакты и сервис: /docs/contacts_and_service.html
+aux_links_new_tab: false     # открывать верхние ссылки в новой вкладке. Мне это не надо
+
+
+# === боковое меню навигации ===
+nav_enabled: true       # также меню навигации может быть отключено на определенной странице с помощью переменных страницы, или с использованием шаблона minimal
+
+
+# === оформлений замечаний (Замечание, Внимание, Просто важно) ===
+callouts:
+  warning:
+    title: Внимание
+    color: red
+  note:
+    title: Замечание
+    color: blue
+  highlight:
+    title: Желтизна
+    color: yellow
+    #opacity: 0.3 # непрозрачность для этого замечания
+  important2:
+    title: ПРОСТОВАЖНО
+    color: blue
+# callouts_opacity: 0.3 # непрозрачность для всех замечаний
+# callouts_level: loud или quiet # тоже можно настроить некий уровень, от которого будет зависеть цвет, не особо понятно. При светлой теме по дефолту quiet
+
+
+
+
+
+
+# === собственная цветовая схема ===
+color_scheme: hoop_scheme
+
+
+# === favicon ===
+# favicon_ico: "/assets/images/favicon.ico" # можно не указывать если фавикон располагается в корневой директории, как сейчас
+
+
+# === создание якорей для тегов h1-h6 ===
+heading_anchors: true       # нужен только для предоставления возможности ссылкой сослаться на конкретный параграф
+
+
+# === нижний контент (СТАРЬЕ, осуждаемый функционал, лучше не юзать, предположительно уберут в будущем). Сейчас надо юзать _include/footer_custom.html ===
+#footer_content: "3Logic Group. Документация отдела роботизированных систем"
+#last_edit_timestamp: true
+#last_edit_time_format: "%b %e %Y at %I:%M %p"
+# еще тут можно ветку указать, ссылку на редактирование на гитхабе
+
+
+# === внешние ссылки в боковом меню, добавляются ниже всех ===
+#nav_external_links:
+#  - title: Just the Docs on GitHub
+#    url: https://github.com/just-the-docs/just-the-docs
+#    hide_icon: false # set to true to hide the external link icon - defaults to false
+#    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false. открываться в новой вкладке конкретной ссылке
+# nav_external_links_new_tab: true # для всех внешних ссылок открываться в новой вкладке
+
+
+
+
+
+
+
