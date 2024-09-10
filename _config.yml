@@ -29,13 +29,13 @@ nav_enabled: true       # также меню навигации может бы
 # === оформлений замечаний (Замечание, Внимание, Просто важно) ===
 callouts:
   warning:
-    title: Внимание
+    title: Осторожно
     color: red
   note:
     title: Замечание
     color: blue
   highlight:
-    title: Желтизна
+    title: Внимание
     color: yellow
     #opacity: 0.3 # непрозрачность для этого замечания
   important2:
