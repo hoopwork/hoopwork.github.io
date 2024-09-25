@@ -2,7 +2,7 @@
 layout: default
 title: KettyBot
 parent: Pudu
-nav_order: 2
+nav_order: 4
 has_children: true
 ---
 
