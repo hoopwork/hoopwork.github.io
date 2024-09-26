@@ -2,7 +2,7 @@
 layout: default
 title: A1
 parent: Unitree Robotics
-nav_order: 1
+nav_order: 0.5
 has_children: true
 ---
 
