@@ -2,7 +2,7 @@
 layout: default
 title: Go1
 parent: Unitree Robotics
-nav_order: 1
+nav_order: 3
 has_children: true
 ---
 

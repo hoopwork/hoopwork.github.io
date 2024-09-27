@@ -2,7 +2,7 @@
 layout: default
 title: AlienGo
 parent: Unitree Robotics
-nav_order: 0.8
+nav_order: 2
 has_children: true
 ---
 
